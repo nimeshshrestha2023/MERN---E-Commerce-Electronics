@@ -3,7 +3,7 @@ ElectroShopX - E-commerce Website
 ElectroShopX is a modern, responsive e-commerce website specializing in electronics and gadgets. The website features a clean design with dark/light mode toggle, product categories, customer testimonials, and contact functionality.
 
 # Live Demo
-[Add your live URL here]
+[Site:](https://mern-stack-preview.vercel.app/)
 
 # Features
 1. Responsive Design
@@ -147,8 +147,6 @@ Customer feedback text
 Local Development
 Clone the repository
 
-bash
-git clone [repository-url]
 cd ElectroShopX
 Open in browser
 
@@ -187,9 +185,6 @@ Admin dashboard
 
 Inventory management
 
-Analytics integration
-
-Mobile app development
 
 # Known Issues & Fixes
 Fixed Issues
@@ -205,7 +200,7 @@ No backend integration
 Cart functionality not implemented
 
 Form submissions not connected to backend
-# Key Learning Points
+# Key Points
 HTML/CSS
 Semantic HTML5 structure
 
